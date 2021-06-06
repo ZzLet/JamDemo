@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JamDemo</string>
+    <string name="search">搜索</string>
+    <string name="input_content_please">请输入需要查询的内容</string>
+</resources>
